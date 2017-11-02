@@ -3,7 +3,7 @@
   <body>
     <h1>Welcome to WebEd</h1>
     <h2>On this site you will learn how to use HTML and CSS</h2>
-    <p>To begin, most websites use html, head, body, and paragraph tags</p>\
+    <p>To begin, most websites use html, head, body, and paragraph tags</p>
   </body>
   </html>
  
